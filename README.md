@@ -4,4 +4,4 @@ Building a data warehouse in SQL server. This project covers ETL workflow, data 
 
 
 
-======= WILL BE ADDING THE PARTS OF THE PROJECT SOON =======
+======================= WILL BE ADDING THE PARTS OF THE PROJECT SOON =======================

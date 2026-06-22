@@ -25,7 +25,7 @@ The objectives of this project are to:
 
 The warehouse follows the Medallion Architecture framework consisting of three layers:
 
-![Data Architecture](warehouse\Data_Architecture.drawio.png)
+![Data Architecture](warehouse/Data_Architecture.drawio.png)
 ### 🟠 Bronze Layer 
 
 The Bronze Layer stores raw data ingested directly from source systems.

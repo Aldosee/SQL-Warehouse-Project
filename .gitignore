@@ -23,3 +23,6 @@ Thumbs.db
 *.csv
 *.png
 *.pdf
+
+# Ignore a specific folder/directory completely
+drawio/

@@ -256,7 +256,7 @@ sql-data-warehouse-project/
 │       ├── data_model.png                 # Star schema / dimensional model
 │       └── README.md                      # Gold layer documentation
 │
-├── warehouse_info/                        # Main diagrams and info used in project 
+├── warehouse/                             # Main diagrams and info used in project 
 │   ├── Data_Architecture.drawio.png       # Overall warehouse architecture
 │   └── data_flow.drawio.png               # End-to-end ETL workflow
 │   └── data_layers.png                    # Information per layers in the data

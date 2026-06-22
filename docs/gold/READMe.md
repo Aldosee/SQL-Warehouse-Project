@@ -1,4 +1,4 @@
-## Gold Layer Schema
+## Gold Layer Catalog
 
 The Gold Layer contains business-ready data models optimized for reporting, dashboarding, and analytical workloads. Data in this layer is organized into dimension and fact tables following a Star Schema design to support efficient querying and business intelligence applications.
 

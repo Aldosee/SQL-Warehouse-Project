@@ -1,4 +1,4 @@
-## Silver Layer Schema
+## Silver Layer Catalog
 
 The Silver Layer contains cleansed, standardized, and validated data derived from the Bronze Layer. This layer applies business rules, corrects data quality issues, standardizes formats, and enriches records to prepare them for analytical consumption.
 

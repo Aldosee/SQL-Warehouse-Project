@@ -1,4 +1,4 @@
-## Bronze Layer Schema
+## Bronze Layer Catalog
 
 The Bronze Layer serves as the raw data ingestion layer and stores source data with minimal transformation. It contains CRM and ERP datasets used throughout the warehouse.
 
